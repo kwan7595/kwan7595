@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kwan7595})]
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwan7595)](https://solved.ac/kwan7595)
 ### Hi there 👋
 💁‍♂
 <!--
