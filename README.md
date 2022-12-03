@@ -7,9 +7,10 @@
 -->
 - 🔭 Research interests : NAS(Neural Architecture Search), Network Pruning, Representation Learning
 ---
-Languages 
+Languages
+---
 - Python
-- C++
+- C,C++
 - Java
 ---
 Toolbox
