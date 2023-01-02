@@ -5,7 +5,7 @@
 <!--
 **kwan7595/kwan7595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Research interests : NAS(Neural Architecture Search), Network Pruning, Representation Learning
+- 🔭 Research interests : NAS(Neural Architecture Search), Network Pruning, Representation Learning , Optimization
 
 Languages
 ---
