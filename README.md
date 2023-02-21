@@ -1,19 +1,15 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwan7595)](https://solved.ac/kwan7595)
-### Hi there 👋
+
+
+ 🔭 Research interests : AutoML, NAS(Neural Architecture Search), Network Pruning, Optimization
+
+Language & Framework
 ---
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+
 <!--
 **kwan7595/kwan7595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Research interests : AutoML, NAS(Neural Architecture Search), Network Pruning, Optimization
-
-Languages
----
-- Python
-- C,C++
-- Java
-
-Toolbox
----
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt = "tensorflow logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt = "pytorch logo" width="50" height="50"/>
-
