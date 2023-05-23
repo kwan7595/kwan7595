@@ -1,8 +1,8 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwan7595)](https://solved.ac/kwan7595)
 
-
- 🔭 Research interests : Deep Learning Theory, NAS(Neural Architecture Search), Network Pruning, Optimization
+ **🔭 Research interests **
+ ---
+ 
+ Deep Learning Theory, NAS(Neural Architecture Search), Network Pruning, Optimization
 
 Language & Framework
 ---
