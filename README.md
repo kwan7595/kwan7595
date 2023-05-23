@@ -1,5 +1,5 @@
 
- **🔭 Research interests **
+ 🔭 Research interests 
  ---
  
  Deep Learning Theory, NAS(Neural Architecture Search), Network Pruning, Optimization
