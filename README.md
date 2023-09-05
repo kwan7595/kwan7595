@@ -2,7 +2,7 @@
  🔭 Research interests 
  ---
  
- Deep Learning Theory, Efficient DL, Optimization Theory
+ Efficient DL, Deep Learning Theory, Optimization Theory
 
 Language & Framework
 ---
