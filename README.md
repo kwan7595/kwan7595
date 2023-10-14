@@ -1,4 +1,4 @@
-Experiences
+🌟 Experiences
 ---
 - AlKon, Vice President (Algorithm Club @ CSE, Konkuk Univ.) 23'03~
 - KU:Super Rookie 4th, Lead/AI Researcher 23'09~
@@ -10,7 +10,7 @@ Experiences
  
  Efficient DL, Deep Learning Theory, Optimization Theory
 
-Language & Framework
+📚 Language & Framework
 ---
 Native Korean, Fluent in English
 
