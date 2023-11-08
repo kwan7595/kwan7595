@@ -2,7 +2,6 @@
 ---
 - AlKon, Vice President (Algorithm Club @ CSE, Konkuk Univ.) 23'03~
 - KU:Super Rookie 4th, Lead/AI Researcher 23'09~
-- Greenmate, ML Developer. 23'06~
 - Undergraduate Research Intern, Coin LAB @ Konkuk Univ. 22'01~
   
  🔭 Research interests 
