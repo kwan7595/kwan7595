@@ -1,3 +1,8 @@
+📚 Education
+---
+- B.S. @ CSE, Konkuk University, Seoul (Expected 24.08)
+- M.S. @ GSAI, POSTECH 
+
 🌟 Experiences
 ---
 - AlKon, Vice President (Algorithm Club @ CSE, Konkuk Univ.) 23.03~23.12
