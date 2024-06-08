@@ -1,7 +1,7 @@
 📚 Education
 ---
 - B.S. @ CSE, Konkuk University, Seoul (Expected 24.08)
-- M.S. @ GSAI, POSTECH 
+- M.S. @ GSAI, POSTECH (Expected 26.08)
 
 🌟 Experiences
 ---
