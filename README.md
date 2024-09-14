@@ -12,7 +12,7 @@
   
  🔭 Research interests 
  ---
-Network Pruning(Especially LLM), Optimization Theory, Deep Learning Theory
+Efficient DL, Optimization Theory, Deep Learning Theory
 
 📚 Language & Framework
 ---
