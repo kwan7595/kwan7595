@@ -13,7 +13,7 @@
  🔭 Research interests 
  ---
 
-I'm currently interested in designing efficient and robust LLMs.
+I'm currently interested in designing algorithms to find efficient and robust LLMs.
 
 **Keywords**
 
