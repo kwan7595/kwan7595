@@ -31,7 +31,7 @@ Misc.
 ---
 🎸 - Passionate bassist
 
- <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Season_2023_-_Master.png/revision/latest?cb=20231007195832" alt="Season 2023 - Master" width="32"> - Ranked Master tier(top 0.6%) at League of Legends (Korea, 24-S2).
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Season_2023_-_Master.png/revision/latest?cb=20231007195832" alt="Season 2023 - Master" width="20"> - Ranked Master tier(top 0.6%) at League of Legends (Korea, 24-S2).
 
 <!--
 **kwan7595/kwan7595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
