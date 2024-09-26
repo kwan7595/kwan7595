@@ -23,10 +23,10 @@ Efficient DL, Optimization Theory, Deep Learning Theory
 ---
 Native Korean, Fluent in English
 
-Others
+Others about me
 ---
 🎸 - Passionate bassist
-🎮 - <img src ="https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Season_2023_-_Master.png/revision/latest?cb=20231007195832",width=32> Ranked Master tier(top 0.6%) at League of Legends (Korea, 24-S2).
+🎮 - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Season_2023_-_Master.png/revision/latest?cb=20231007195832" alt="Season 2023 - Master" width="200"> Ranked Master tier(top 0.6%) at League of Legends (Korea, 24-S2).
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 
